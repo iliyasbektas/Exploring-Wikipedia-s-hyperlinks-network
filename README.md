@@ -1,2 +1,1 @@
-# ADM_HW5
-### All functions and implementations are in 'main(1).ipynb'.
+In this project, I create graphs from wikipedia hyperlinks and apply different manipulations and algorithms
